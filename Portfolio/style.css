@@ -1,0 +1,108 @@
+.container{
+    border: solid 0px;
+    height: 120px;
+    width: 98%;
+    position: absolute;
+}
+.Con2{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin-top: 90px;
+    margin-right: 80px;
+    font-size: larger;
+    font-family: monospace;
+}
+.Con2a:hover{
+    color: white;
+    height: 25px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee)
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.Con1{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: monospace;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.box2{
+    border: solid 0px;
+    height: 465px;
+    width: 650px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee);
+    
+}
+.text1{
+    color: white;
+    font-size: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    padding-top: 100px;
+}
+.text2{
+    color: white;
+    font-size: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+.photo{
+    border: solid 1px #82e1ee;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    position: relative;
+   margin-top: 80px;
+   margin-left: 30px;
+   box-shadow: 5px 5px 5px #605bae;
+  
+}
+.pic:hover{
+    height: 320px;
+    width: 320px;
+    border-radius: 50%;
+    margin-top: -20px;
+}
+.container2{
+    display: flex;
+}
+.pic{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%
+}
+
+.square{
+    border: solid 0px;
+    height: 465px;
+    width: 490px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee);
+    position: absolute;
+    margin-left: 700px;
+    
+}
+.circle{
+    border: solid 0px;
+    height: 465px;
+    width: 450px;
+    border-top-right-radius: 500px;
+    border-bottom-right-radius: 500px;
+    background-color: white;
+    position: absolute;  
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    height: 25px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee);
+}

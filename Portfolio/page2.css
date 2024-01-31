@@ -1,0 +1,111 @@
+.boxx{
+    border: solid 0px;
+    height: 300px;
+    width: 250px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee);
+    margin-left: 150px;
+}
+.box1{
+    border: solid 0px;
+    height: 10px;
+    width: 190px;
+    background-color: white;
+}
+.box2{
+    border: solid 0px;
+    height: 180px;
+    width: 220px;
+}
+.box3{
+    border: solid 0px black;
+    height: 110px;
+    width: 200px;
+    background-color: white;
+}
+.img1{
+    height: 240px;
+    width: 220px;
+}
+.img2{
+    height: 200px;
+    width: 300px;
+    margin-top: 70px;
+    margin-left: -150px;
+}
+.school{
+    margin-top: 50px  ;
+    margin-left: 50px;
+    display: flex;
+}
+.ss{
+    margin-top: 5px;
+    margin-left: 5px;
+    border: solid 0px;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    text-align: center;
+}
+.schoola{
+    border: solid 0px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee);
+    height: 50px;
+    width: 50px;
+    
+}
+.schoolb{
+    border: solid 0px black;
+    height: 30px;
+    width: 500px;
+    margin-left: 20px;
+    padding: 10px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee);
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: x-large;
+}
+.main{
+    display: flex;
+}
+.container{
+    border: solid 1px black;
+    height: 120px;
+    width: 98%;
+    position: absolute;
+}
+.Con2{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin-top: 90px;
+    margin-right: 80px;
+    font-size: larger;
+    font-family: monospace;
+}
+.Con2a:hover{
+    color: white;
+    height: 25px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee)
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.Con1{
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: monospace;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    height: 25px;
+    background-image: linear-gradient(to top left ,#605bae, #82e1ee)
+}
